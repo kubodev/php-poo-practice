@@ -1,0 +1,4 @@
+# ocultar vendor
+/vendor
+composer.lock
+
